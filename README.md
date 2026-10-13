@@ -16,17 +16,9 @@ Users can log in, browse savings products, view product details, create a saving
 
 **Mock credentials:** `test@bank.com` / `Password123`
 
-## Setup
 
-```bash
-flutter --version          # note your version in the section below
-flutter pub get
-flutter run
-flutter test               # unit + widget tests
-flutter build apk --release   # APK -> build/app/outputs/flutter-apk/app-release.apk
-```
 
-**Flutter version used:** _fill in the output of `flutter --version` (Flutter x.y.z • Dart x.y.z)_
+**Flutter version used:** i am ccurrently using flutter version 3.47.7
 
 ### Platform setup (one-time)
 
@@ -148,6 +140,3 @@ and a retry button.
 - Integration tests and a CI pipeline (analyze + test + build APK on every PR).
 - Edit/withdraw/top-up flows for savings plans.
 
-## Screenshots
-
-Add screenshots to `screenshots/` and link them here.
